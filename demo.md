@@ -34,5 +34,3 @@ https://github.com/derevovoli/upvote/edit/main/demo.md
 
 2024-01-19
 
-
-# ----
