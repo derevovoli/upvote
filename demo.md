@@ -3,6 +3,10 @@
 
 ## Предложить свою идею
 
+[![][ilogo1234560]][ilink1234560]
+
+[ilink1234560]: https://t.me/upvote_derevovoli_bot
+[ilogo1234560]: https://img.shields.io/badge/add-brightgreen?style=for-the-badge&logo=Trustpilot&logoColor=white&label=Upvote&labelColor=%20%09limegreen&color=forestgreen
 
 ### test Библиотека книг
 
