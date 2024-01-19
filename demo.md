@@ -57,4 +57,12 @@ https://github.com/derevovoli/upvote/edit/main/demo.md
 
 - Поддерджка свзяь
 
+# Dev
+
+https://t.me/upvote_derevovoli_bot?upbote=101
+
+https://t.me/upvote_derevovoli_bot?upbote=102
+
+
+
 
