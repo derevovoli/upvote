@@ -59,9 +59,11 @@ https://github.com/derevovoli/upvote/edit/main/demo.md
 
 # Dev
 
-https://t.me/upvote_derevovoli_bot?upbote=101
+https://t.me/upvote_derevovoli_bot?upvote=101
 
-https://t.me/upvote_derevovoli_bot?upbote=102
+https://t.me/upvote_derevovoli_bot?upvote=102
+
+https://t.me/upvote_derevovoli_bot?upvote103
 
 
 
