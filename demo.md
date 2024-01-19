@@ -6,7 +6,7 @@
 [![][ilogo1234560]][ilink1234560]
 
 [ilink1234560]: https://t.me/upvote_derevovoli_bot
-[ilogo1234560]: https://img.shields.io/badge/add-brightgreen?style=for-the-badge&logo=Trustpilot&logoColor=white&label=Upvote&labelColor=%20%09limegreen&color=forestgreen
+[ilogo1234560]: https://img.shields.io/badge/%2B_%D0%9F%D1%80%D0%B5%D0%B4%D0%BB%D0%BE%D0%B6%D0%B8%D1%82%D1%8C_%D1%81%D0%B2%D0%BE%D1%8E_%D0%B8%D0%B4%D0%B5%D1%8E-brightgreen?style=for-the-badge&logo=Trustpilot&logoColor=white&label=Upvote&labelColor=%20%09limegreen&color=forestgreen
 
 ### test Библиотека книг
 
