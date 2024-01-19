@@ -10,7 +10,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras arcu mauris, digni
 
 https://github.com/derevovoli/upvote/edit/main/demo.md
 
-![Static Badge](https://img.shields.io/badge/upvote-41-brightgreen?style=for-the-badge&logo=Trustpilot&logoColor=white&label=Upvote&labelColor=%20%09limegreen&color=forestgreen&link=https%3A%2F%2Ft.me%2Fupvote_derevovoli_bot)
+[![Static Badge](https://img.shields.io/badge/upvote-41-brightgreen?style=for-the-badge&logo=Trustpilot&logoColor=white&label=Upvote&labelColor=%20%09limegreen&color=forestgreen&link=https%3A%2F%2Ft.me%2Fupvote_derevovoli_bot)][https://t.me/upvote_derevovoli_bot]
+
 
 2024-01-19
 
