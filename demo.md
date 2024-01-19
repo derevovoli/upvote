@@ -21,7 +21,7 @@ https://github.com/derevovoli/upvote/edit/main/demo.md
 
 [![][black-shield2]][black2]
 
-[black2]: [http://github.com/psf/black](https://t.me/upvote_derevovoli_bot)
+[black2]: https://t.me/upvote_derevovoli_bot
 [black-shield2]: https://img.shields.io/badge/upvote-41-brightgreen?style=for-the-badge&logo=Trustpilot&logoColor=white&label=Upvote&labelColor=%20%09limegreen&color=forestgreen
 
 
