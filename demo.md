@@ -55,7 +55,11 @@ https://github.com/derevovoli/upvote/edit/main/demo.md
 
 2024-01-19
 
-## Предложить свою идею
+
+
+
+
+<h2 id="contribute-idea">Предложить свою идею</h2>
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSemaIVdFMMuzsOjleLCd2dQ9WaNgQCwLs9EuOc4cGViGZn5ew/viewform?embedded=true" width="640" height="744" frameborder="0" marginheight="0" marginwidth="0">Загрузка…</iframe>
 
