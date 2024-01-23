@@ -28,6 +28,10 @@ https://github.com/derevovoli/upvote/edit/main/demo.md
 
 2024-01-19
 
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfUuSpwuuyu-4GIGhtTIz3A0y70HtNt4KYTLi9HXPEw-qRO0w/viewform?embedded=true&entry.3245599=1020307" width="640" height="372" frameborder="0" marginheight="0" marginwidth="0">Загрузка…</iframe>
+
+
+
 
 
 
@@ -44,6 +48,12 @@ https://github.com/derevovoli/upvote/edit/main/demo.md
 
 2024-01-19
 
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfUuSpwuuyu-4GIGhtTIz3A0y70HtNt4KYTLi9HXPEw-qRO0w/viewform?embedded=true&entry.3245599=1020308" width="640" height="372" frameborder="0" marginheight="0" marginwidth="0">Загрузка…</iframe>
+
+
+
+
+
 <h3 id="idea1020409">Дебаты (test)</h3>
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras arcu mauris, dignissim non urna pulvinar, laoreet vulputate ante. Quisque vulputate massa risus, iaculis vestibulum augue porttitor non. Morbi eget dignissim arcu, et dignissim arcu. Sed vel accumsan arcu. Nam pulvinar, purus scelerisque mattis iaculis, nulla erat rhoncus est, non volutpat lectus sem a sapien. Nam id dictum dolor. Vivamus sagittis sapien et arcu tristique, eu scelerisque arcu aliquet. Etiam velit nisi, tempor et quam eu, vehicula hendrerit dolor. Vestibulum libero est, eleifend vitae mollis vel, blandit in lectus. 
@@ -57,6 +67,7 @@ https://github.com/derevovoli/upvote/edit/main/demo.md
 
 2024-01-19
 
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfUuSpwuuyu-4GIGhtTIz3A0y70HtNt4KYTLi9HXPEw-qRO0w/viewform?embedded=true&entry.3245599=1020309" width="640" height="372" frameborder="0" marginheight="0" marginwidth="0">Загрузка…</iframe>
 
 
 
