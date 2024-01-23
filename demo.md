@@ -14,18 +14,13 @@
 
 # Коллекция потенциальных проектов
 
-
-
-
-<h3 id="idea1020407">Библиотека книг (test)</h3>
+<h2 id="idea1020407">№ 1020407. Библиотека книг (test)</h2>
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras arcu mauris, dignissim non urna pulvinar, laoreet vulputate ante. Quisque vulputate massa risus, iaculis vestibulum augue porttitor non. Morbi eget dignissim arcu, et dignissim arcu. Sed vel accumsan arcu. Nam pulvinar, purus scelerisque mattis iaculis, nulla erat rhoncus est, non volutpat lectus sem a sapien. Nam id dictum dolor. Vivamus sagittis sapien et arcu tristique, eu scelerisque arcu aliquet. Etiam velit nisi, tempor et quam eu, vehicula hendrerit dolor. Vestibulum libero est, eleifend vitae mollis vel, blandit in lectus. 
 
 https://github.com/derevovoli/upvote/edit/main/demo.md
 
 2024-01-19
-
-
 
 
 [![][ilogo1020307]][ilink1020307]
@@ -34,26 +29,23 @@ https://github.com/derevovoli/upvote/edit/main/demo.md
 [ilogo1020307]: https://img.shields.io/badge/stars-23-brightgreen?style=for-the-badge&logo=Trustpilot&logoColor=white&label=Stars&labelColor=%20%09limegreen&color=forestgreen
 
 
-
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfUuSpwuuyu-4GIGhtTIz3A0y70HtNt4KYTLi9HXPEw-qRO0w/viewform?embedded=true&entry.3245599=1020307" width="640" height="372" frameborder="0" marginheight="0" marginwidth="0">Загрузка…</iframe>
 
 
-[]
-[]
-[]
-[]
-[]
 
 
 
-<h3 id="idea1020408">Бронсбойт (test)</h3>
+
+
+
+
+<h2 id="idea1020408">№ 1020408. Брандспойт (test)</h2>
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras arcu mauris, dignissim non urna pulvinar, laoreet vulputate ante. Quisque vulputate massa risus, iaculis vestibulum augue porttitor non. Morbi eget dignissim arcu, et dignissim arcu. Sed vel accumsan arcu. Nam pulvinar, purus scelerisque mattis iaculis, nulla erat rhoncus est, non volutpat lectus sem a sapien. Nam id dictum dolor. Vivamus sagittis sapien et arcu tristique, eu scelerisque arcu aliquet. Etiam velit nisi, tempor et quam eu, vehicula hendrerit dolor. Vestibulum libero est, eleifend vitae mollis vel, blandit in lectus. 
 
 https://github.com/derevovoli/upvote/edit/main/demo.md
 
 2024-01-19
-
 
 
 [![][ilogo1020308]][ilink1020308]
@@ -62,19 +54,18 @@ https://github.com/derevovoli/upvote/edit/main/demo.md
 [ilogo1020308]: https://img.shields.io/badge/stars-8-brightgreen?style=for-the-badge&logo=Trustpilot&logoColor=white&label=Stars&labelColor=%20%09limegreen&color=forestgreen
 
 
-
-
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfUuSpwuuyu-4GIGhtTIz3A0y70HtNt4KYTLi9HXPEw-qRO0w/viewform?embedded=true&entry.3245599=1020308" width="640" height="372" frameborder="0" marginheight="0" marginwidth="0">Загрузка…</iframe>
 
 
-[]
-[]
-[]
-[]
-[]
 
 
-<h3 id="idea1020409">Дебаты (test)</h3>
+
+
+
+
+
+
+<h2 id="idea1020409">№ 1020409. Дебаты (test)</h2>
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras arcu mauris, dignissim non urna pulvinar, laoreet vulputate ante. Quisque vulputate massa risus, iaculis vestibulum augue porttitor non. Morbi eget dignissim arcu, et dignissim arcu. Sed vel accumsan arcu. Nam pulvinar, purus scelerisque mattis iaculis, nulla erat rhoncus est, non volutpat lectus sem a sapien. Nam id dictum dolor. Vivamus sagittis sapien et arcu tristique, eu scelerisque arcu aliquet. Etiam velit nisi, tempor et quam eu, vehicula hendrerit dolor. Vestibulum libero est, eleifend vitae mollis vel, blandit in lectus. 
 
@@ -83,22 +74,17 @@ https://github.com/derevovoli/upvote/edit/main/demo.md
 2024-01-19
 
 
-
 [![][ilogo1020309]][ilink1020309]
 
 [ilink1020309]: https://t.me/upvote_derevovoli_bot
 [ilogo1020309]: https://img.shields.io/badge/stars-3-brightgreen?style=for-the-badge&logo=Trustpilot&logoColor=white&label=Stars&labelColor=%20%09limegreen&color=forestgreen
 
 
-
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfUuSpwuuyu-4GIGhtTIz3A0y70HtNt4KYTLi9HXPEw-qRO0w/viewform?embedded=true&entry.3245599=1020309" width="640" height="372" frameborder="0" marginheight="0" marginwidth="0">Загрузка…</iframe>
 
 
-[]
-[]
-[]
-[]
-[]
+
+
 
 
 
