@@ -19,6 +19,8 @@ template_main_page = pathlib.Path('templates/main-page.md')
 
 template_idea_block = pathlib.Path('templates/idea-block.md')
 
+csv_ideas_all = pathlib.Path('all-ideas.csv')
 
+csv_votes_all = pathlib.Path('all-votes.csv')
 
 
