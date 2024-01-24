@@ -91,3 +91,6 @@ def run():
     )
     utils.write_file('readme.md', main_page_text)
 
+
+
+run()
