@@ -38,7 +38,7 @@ def update_votes():
         utils.write_csv(config.csv_votes_all, votes_csv)
 
 
-def get_ideas_rank():
+def get_ideas_ranks():
     votes_csv = utils.read_csv(config.csv_votes_all)
 
     votes = [vote[1] for vote in votes_csv[1:]]
@@ -56,9 +56,9 @@ def get_ideas_rank():
     return ranks_sorted
 
 
-def generator_ideas_blocks_text(total_rank):
+def generator_ideas_blocks_text(ideas_ranks):
     text = ''
-    for key in total_rank:
+    for key, rank in ideas_ranks.items():
         idea_path = config.ideas_dir.joinpath(f'{key}.yml')
         if not idea_path.exists():
             continue
@@ -71,7 +71,8 @@ def generator_ideas_blocks_text(total_rank):
             idea_title=idea_data.get('title'),
             idea_description=idea_data.get('description'),
             idea_contacts=idea_data.get('contacts'),
-            idea_date=idea_data.get('date')
+            idea_date=idea_data.get('date'),
+            idea_rank=rank
         )
         text += idea_text
     return text
@@ -80,8 +81,8 @@ def generator_ideas_blocks_text(total_rank):
 def run():
     update_ideas()
     update_votes()
-    ideas_ranked = get_ideas_rank()
-    ideas_blocks_text = generator_ideas_blocks_text(ideas_ranked)
+    ideas_ranks = get_ideas_rank()
+    ideas_blocks_text = generator_ideas_blocks_text(ideas_ranks)
 
 
     idea_main_page_template = utils.read_file(config.template_main_page)
