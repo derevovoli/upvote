@@ -1,3 +1,6 @@
+
+<link rel="shortcut icon" type="image/png" href="favicon.png">
+
 ### URL этой страницы
 
 [https://derevovoli.github.io/upvote/demo](https://derevovoli.github.io/upvote/demo)
