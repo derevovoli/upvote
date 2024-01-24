@@ -1,6 +1,9 @@
 name: 🍭 Update Ideas and Votes
 run-name: Update Ideas and Votes (${{ github.actor }})🚀
 on:
+  push:
+    branches:
+      - main
   schedule:
     - cron: '*/10 * * * *'
 permissions:
