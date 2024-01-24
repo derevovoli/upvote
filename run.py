@@ -6,10 +6,10 @@ import pathlib
 def update_ideas():
     ideas_csv = utils.download_csv(config.ideas_url)    
     
-    local_ideas_csv = read_csv(config.csv_ideas_all)
+    local_ideas_csv = utils.read_csv(config.csv_ideas_all)
 
     if ideas_csv != local_ideas_csv:
-        write_csv(config.csv_ideas_all, ideas_csv)
+        utils.write_csv(config.csv_ideas_all, ideas_csv)
     
     ideas = {str(idx): row for idx, row in enumerate(ideas_csv[1:], start=1)}
  
@@ -32,10 +32,10 @@ def update_ideas():
 def update_votes():
     votes_csv = utils.download_csv(config.upvotes_url)    
     
-    local_votes_csv = read_csv(config.csv_votes_all)
+    local_votes_csv = utils.read_csv(config.csv_votes_all)
 
     if votes_csv != local_votes_csv:
-        write_csv(config.csv_votes_all, votes_csv)
+        utils.write_csv(config.csv_votes_all, votes_csv)
 
 
 def get_ideas_rank():
