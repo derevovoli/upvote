@@ -25,6 +25,7 @@ https://github.com/derevovoli/upvote/edit/main/demo.md
 
 ![Badge](https://img.shields.io/badge/stars-8-brightgreen?style=for-the-badge&logo=Trustpilot&logoColor=white&label=Stars&labelColor=%20%09limegreen&color=forestgreen)
 
+![Static Badge](https://img.shields.io/badge/stars-23-brightgreen?style=for-the-badge&logo=Trustpilo&logoColor=white)
 
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfUuSpwuuyu-4GIGhtTIz3A0y70HtNt4KYTLi9HXPEw-qRO0w/viewform?embedded=true&entry.3245599=1020307" width="640" height="372" frameborder="0" marginheight="0" marginwidth="0">Загрузка…</iframe>
