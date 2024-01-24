@@ -29,16 +29,27 @@ def update_ideas():
     return ideas
 
 
-def get_ideas_rank(ideas_dict):
-    upvotes_csv = utils.download_csv(config.upvotes_url)
-
-    collections = [row[1] for row in upvotes_csv[1:]]
+def update_votes():
+    votes_csv = utils.download_csv(config.upvotes_url)    
     
-    ranks_sorted = {i: collections.count(i) for i in collections}
+    local_votes_csv = read_csv(config.csv_votes_all)
+
+    if votes_csv != local_votes_csv:
+        write_csv(config.csv_votes_all, votes_csv)
+
+
+def get_ideas_rank():
+    votes_csv = read_csv(config.csv_votes_all)
+
+    votes = [vote[1] for vote in votes_csv[1:]]
+    
+    ranks_sorted = {i: votes.count(i) for i in votes}
     ranks_keys = list(ranks_sorted.keys())
     
     unranked_keys = []
-    for idea_key in ideas_dict.keys():
+
+    idea_keys = [file_idea.stem for file_idea in config.ideas_dir.iterdir() if file_idea.suffix in ['.yml']]
+    for idea_key in idea_keys:
         if idea_key not in ranks_keys:
             unranked_keys.append(idea_key)
     
@@ -67,8 +78,9 @@ def generator_ideas_blocks_text(total_rank):
 
 
 def run():
-    ideas_all = update_ideas()
-    ideas_ranked = get_ideas_rank(ideas_all)
+    update_ideas()
+    update_votes()
+    ideas_ranked = get_ideas_rank()
     ideas_blocks_text = generator_ideas_blocks_text(ideas_ranked)
 
 
