@@ -81,7 +81,7 @@ def generator_ideas_blocks_text(ideas_ranks):
 def run():
     update_ideas()
     update_votes()
-    ideas_ranks = get_ideas_rank()
+    ideas_ranks = get_ideas_ranks()
     ideas_blocks_text = generator_ideas_blocks_text(ideas_ranks)
 
 
