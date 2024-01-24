@@ -50,7 +50,8 @@ def get_ideas_ranks():
     for idea_key in idea_keys:
         if idea_key not in ranks_keys:
             ranks_sorted[idea_key] = '0'
-
+    
+    ranks_sorted = sorted(ranks_sorted, reverse=True)
     print('🍱 ranks_sorted')
     print(ranks_sorted)
     return ranks_sorted
