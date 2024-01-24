@@ -3,29 +3,16 @@ import utils
 import config
 import pathlib
 
-def write_ideas(ideas):
-    for key, values in ideas.items():
-        idea_path = config.ideas_dir.joinpath(config.idea_filename_template.substitute(idea_key=key))
-        if idea_path.exists():
-            continue
-            
-        utils.write_yaml(
-            idea_path,
-            {
-                'title': values[1].strip(),
-                'description': values[2].strip(),
-                'contacts': values[3].strip(),
-                'date': values[0]
-            }
-        )
-
-
 def update_ideas():
-    ideas_csv = utils.download_csv(config.ideas_url)
-
-    ideas = {str(idx): row for idx, row in enumerate(ideas_csv[1:])}
-    print(ideas)
+    ideas_csv = utils.download_csv(config.ideas_url)    
     
+    local_ideas_csv = read_csv(config.csv_ideas_all)
+
+    if ideas_csv != local_ideas_csv:
+        write_csv(config.csv_ideas_all, ideas_csv)
+    
+    ideas = {str(idx): row for idx, row in enumerate(ideas_csv[1:], start=1)}
+ 
     for key, values in ideas.items():
         idea_path = config.ideas_dir.joinpath(config.idea_filename_template.substitute(idea_key=key))
         if not idea_path.exists():
