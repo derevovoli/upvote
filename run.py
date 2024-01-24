@@ -39,7 +39,7 @@ def update_votes():
 
 
 def get_ideas_rank():
-    votes_csv = read_csv(config.csv_votes_all)
+    votes_csv = utils.read_csv(config.csv_votes_all)
 
     votes = [vote[1] for vote in votes_csv[1:]]
     
