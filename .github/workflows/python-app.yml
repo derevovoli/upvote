@@ -1,4 +1,4 @@
-name: Update Ideas and Votes
+name: 🍭 Update Ideas and Votes
 run-name: Update Ideas and Votes (${{ github.actor }})🚀
 on:
   schedule:
