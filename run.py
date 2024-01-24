@@ -45,15 +45,15 @@ def get_ideas_rank():
     
     ranks_sorted = {i: votes.count(i) for i in votes}
     ranks_keys = list(ranks_sorted.keys())
-    
-    unranked_keys = []
 
     idea_keys = [file_idea.stem for file_idea in config.ideas_dir.iterdir() if file_idea.suffix in ['.yml']]
     for idea_key in idea_keys:
         if idea_key not in ranks_keys:
-            unranked_keys.append(idea_key)
-    
-    return ranks_keys + unranked_keys
+            ranks_sorted[idea_key] = '0'
+
+    print('🍱 ranks_sorted')
+    print(ranks_sorted)
+    return ranks_sorted
 
 
 def generator_ideas_blocks_text(total_rank):
