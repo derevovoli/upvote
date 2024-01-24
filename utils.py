@@ -6,7 +6,6 @@ import inspect
 
 def read_file(path: str | pathlib.Path) -> str:
     path = pathlib.Path(path)
-
     try:
         with open(path.resolve().as_posix()) as f:
             data = f.read()
@@ -35,7 +34,6 @@ def write_file(path: str | pathlib.Path, data, mode='w+') -> pathlib.Path | None
 
 def read_yaml(path: str | pathlib.Path):
     path = pathlib.Path(path)
-    data = None
     try:
         text = read_file(path)
         data = yaml.load(text, Loader=yaml.Loader)
@@ -69,18 +67,18 @@ def write_yaml(path: str | pathlib.Path, data) -> pathlib.Path | None:
 
 
 def download_csv(url):
-    csv_reader = []
     try:
         response = urlopen(url)
         lines = [line.decode('utf-8') for line in response.readlines()]
         csv_reader = csv.reader(lines, delimiter=',')
+        csv_reader = [row for row in csv_reader]
     except Exception as err:
         print(f'Error with function {inspect.currentframe().f_code.co_name} .... ')
         print(err)
         print()
         return
     
-    return [row for row in csv_reader]
+    return csv_reader
 
 
 def write_csv(path: str | pathlib.Path, data, mode='w') -> pathlib.Path | None:
@@ -100,8 +98,6 @@ def write_csv(path: str | pathlib.Path, data, mode='w') -> pathlib.Path | None:
 
 def read_csv(path: str | pathlib.Path):
     path = pathlib.Path(path)
-
-    data = None
     try:
         with open(path.resolve().as_posix()) as f:
             csv_reader = csv.reader(f)
