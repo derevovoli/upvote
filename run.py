@@ -49,7 +49,7 @@ def get_ideas_ranks():
     idea_keys = [file_idea.stem for file_idea in config.ideas_dir.iterdir() if file_idea.suffix in ['.yml']]
     for idea_key in idea_keys:
         if idea_key not in ranks_keys:
-            ranks_sorted[idea_key] = '0'
+            ranks_sorted[idea_key] = 0
 
     print('🍱 ranks_sorted')
     print(ranks_sorted)
