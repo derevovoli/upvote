@@ -2,7 +2,7 @@ import pathlib
 import yaml
 import csv
 from urllib.request import urlopen
-
+import inspect
 
 def read_file(path: str | pathlib.Path) -> str:
     path = pathlib.Path(path)
@@ -10,8 +10,10 @@ def read_file(path: str | pathlib.Path) -> str:
     try:
         with open(path.resolve().as_posix()) as f:
             data = f.read()
-    except (Exception,):
-        print('Error with read ... ')
+    except Exception as err:
+        print(f'Error with function {inspect.currentframe().f_code.co_name} .... ')
+        print(err)
+        print()
         return
 
     return data
@@ -22,26 +24,48 @@ def write_file(path: str | pathlib.Path, data, mode='w+') -> pathlib.Path | None
     try:
         with open(path.resolve().as_posix(), mode) as f:
             f.write(data)
-    except (Exception,):
-        print('Error with write .... ')
+    except Exception as err:
+        print(f'Error with function {inspect.currentframe().f_code.co_name} .... ')
+        print(err)
+        print()
         return
 
     return path
 
 
 def read_yaml(path: str | pathlib.Path):
-    text = read_file(path)
-    return yaml.load(text, Loader=yaml.Loader)
+    path = pathlib.Path(path)
+    data = None
+    try:
+        text = read_file(path)
+        data = yaml.load(text, Loader=yaml.Loader)
+    except Exception as err:
+        print(f'Error with function {inspect.currentframe().f_code.co_name} .... ')
+        print(err)
+        print()
+        return
+    
+    return data
 
 
 def write_yaml(path: str | pathlib.Path, data) -> pathlib.Path | None:
-    text = yaml.dump(
-        data,
-        default_flow_style=False,
-        sort_keys=False,
-        allow_unicode=True,
-    )
-    return write_file(path, text)
+    path = pathlib.Path(path)
+    try:
+        text = yaml.dump(
+            data,
+            default_flow_style=False,
+            sort_keys=False,
+            allow_unicode=True,
+        )
+        output_path = write_file(path, text)
+        
+    except Exception as err:
+        print(f'Error with function {inspect.currentframe().f_code.co_name} .... ')
+        print(err)
+        print()
+        return
+    
+    return output_path
 
 
 def download_csv(url):
@@ -50,9 +74,42 @@ def download_csv(url):
         response = urlopen(url)
         lines = [line.decode('utf-8') for line in response.readlines()]
         csv_reader = csv.reader(lines, delimiter=',')
-    except (Exception,):
-        print('Error download_csv')
-        return []
+    except Exception as err:
+        print(f'Error with function {inspect.currentframe().f_code.co_name} .... ')
+        print(err)
+        print()
+        return
     
     return [row for row in csv_reader]
 
+
+def write_csv(path: str | pathlib.Path, data, mode='w') -> pathlib.Path | None:
+    path = pathlib.Path(path)
+    try:
+        with open(path.resolve().as_posix(), mode) as f:
+            csvwriter = csv.writer(f)
+            csvwriter.writerows(data)
+    except Exception as err:
+        print(f'Error with function {inspect.currentframe().f_code.co_name} ... ')
+        print(err)
+        print()
+        return
+
+    return path
+
+
+def read_csv(path: str | pathlib.Path):
+    path = pathlib.Path(path)
+
+    data = None
+    try:
+        with open(path.resolve().as_posix()) as f:
+            csv_reader = csv.reader(f)
+            data = [row for row in csv_reader]
+    except Exception as err:
+        print(f'Error with function {inspect.currentframe().f_code.co_name} ... ')
+        print(err)
+        print()
+        return
+
+    return data
