@@ -217,13 +217,13 @@ https://en.m.wikipedia.org/wiki/The_X-Files
 
 #### Sources:
 
-ideas URL
+Ideas URL:
 
-https://docs.google.com/spreadsheet/ccc?key=1Jd64aeV5uyW4C1EFTqc4womkSwG-3nyzujXPdms-drs&output=csv
+[https://docs.google.com/spreadsheet/ccc?key=1Jd64aeV5uyW4C1EFTqc4womkSwG-3nyzujXPdms-drs&output=csv](https://docs.google.com/spreadsheet/ccc?key=1Jd64aeV5uyW4C1EFTqc4womkSwG-3nyzujXPdms-drs&output=csv)
 
-votes URL 
+Votes URL:
 
-https://docs.google.com/spreadsheet/ccc?key=1Y2gY4kBg2oYufDYuMXkGGpWDF1_hQhTVtX9Dj8oA55I&output=csv
+[https://docs.google.com/spreadsheet/ccc?key=1Y2gY4kBg2oYufDYuMXkGGpWDF1_hQhTVtX9Dj8oA55I&output=csv](https://docs.google.com/spreadsheet/ccc?key=1Y2gY4kBg2oYufDYuMXkGGpWDF1_hQhTVtX9Dj8oA55I&output=csv)
 
 
 # Dev
