@@ -39,13 +39,13 @@ $idea_blocks
 
 #### Sources:
 
-ideas URL
+Ideas URL:
 
-$ideas_url
+[$ideas_url]($ideas_url)
 
-votes URL 
+Votes URL:
 
-$votes_url
+[$votes_url]($votes_url)
 
 
 # Dev
