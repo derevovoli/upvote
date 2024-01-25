@@ -95,7 +95,9 @@ def run():
 
     idea_main_page_template = utils.read_file(config.template_main_page)
     main_page_text = Template(idea_main_page_template).substitute(
-        idea_blocks=ideas_blocks_text
+        idea_blocks=ideas_blocks_text,
+        ideas_url=config.ideas_url,
+        votes_url=config.upvotes_url
     )
     utils.write_file('readme.md', main_page_text)
 
