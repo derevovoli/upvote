@@ -29,122 +29,10 @@ t.mer
 24.01.2024 7:00:55
 
 
-![Bagge With Star](https://img.shields.io/badge/stars-6-brightgreen?style=for-the-badge&logo=Trustpilot&logoColor=white&label=Stars&labelColor=%20%09limegreen&color=forestgreen)
+![Bagge With Star](https://img.shields.io/badge/stars-0-brightgreen?style=for-the-badge&logo=Trustpilot&logoColor=white&label=Stars&labelColor=%20%09limegreen&color=forestgreen)
 
 
 <iframe class="idea-vote" src="https://docs.google.com/forms/d/e/1FAIpQLSfUuSpwuuyu-4GIGhtTIz3A0y70HtNt4KYTLi9HXPEw-qRO0w/viewform?embedded=true&entry.3245599=4" width="640" height="372" frameborder="0" marginheight="0" marginwidth="0">Загрузка…</iframe>
-
-
-
-
-
-
-
-
-
-<h2 id="idea2">№ 2. test2-T</h2>
-
-test2-D
-
-test2-C
-
-23.01.2024 2:45:54
-
-
-![Bagge With Star](https://img.shields.io/badge/stars-5-brightgreen?style=for-the-badge&logo=Trustpilot&logoColor=white&label=Stars&labelColor=%20%09limegreen&color=forestgreen)
-
-
-<iframe class="idea-vote" src="https://docs.google.com/forms/d/e/1FAIpQLSfUuSpwuuyu-4GIGhtTIz3A0y70HtNt4KYTLi9HXPEw-qRO0w/viewform?embedded=true&entry.3245599=2" width="640" height="372" frameborder="0" marginheight="0" marginwidth="0">Загрузка…</iframe>
-
-
-
-
-
-
-
-
-
-<h2 id="idea7">№ 7. Project X-Files Number 666</h2>
-
-Duis in augue aliquet, ultrices lectus vel, dictum dolor. Phasellus ac ex molestie, sagittis ante ut, efficitur ipsum. Nulla vitae dui rutrum, tempus nibh et, eleifend diam. Nam eleifend, lectus bibendum dignissim mollis, lectus lorem cursus dolor, a varius mi ligula vel mi. Fusce dictum convallis odio ut rhoncus. Integer gravida rhoncus eleifend. Cras vel velit tincidunt magna venenatis posuere.
-
-В тг dev @derevovole
-
-25.01.2024 0:53:08
-
-
-![Bagge With Star](https://img.shields.io/badge/stars-2-brightgreen?style=for-the-badge&logo=Trustpilot&logoColor=white&label=Stars&labelColor=%20%09limegreen&color=forestgreen)
-
-
-<iframe class="idea-vote" src="https://docs.google.com/forms/d/e/1FAIpQLSfUuSpwuuyu-4GIGhtTIz3A0y70HtNt4KYTLi9HXPEw-qRO0w/viewform?embedded=true&entry.3245599=7" width="640" height="372" frameborder="0" marginheight="0" marginwidth="0">Загрузка…</iframe>
-
-
-
-
-
-
-
-
-
-<h2 id="idea1">№ 1. test-1 T</h2>
-
-test-1D
-
-test-1 C
-
-22.01.2024 22:20:54
-
-
-![Bagge With Star](https://img.shields.io/badge/stars-1-brightgreen?style=for-the-badge&logo=Trustpilot&logoColor=white&label=Stars&labelColor=%20%09limegreen&color=forestgreen)
-
-
-<iframe class="idea-vote" src="https://docs.google.com/forms/d/e/1FAIpQLSfUuSpwuuyu-4GIGhtTIz3A0y70HtNt4KYTLi9HXPEw-qRO0w/viewform?embedded=true&entry.3245599=1" width="640" height="372" frameborder="0" marginheight="0" marginwidth="0">Загрузка…</iframe>
-
-
-
-
-
-
-
-
-
-<h2 id="idea0">№ 0. test-Бронсбойт</h2>
-
-test-Сделать систему уведомлений широку большую
-
-test-Ссылка t.me Автор идеи такой-то
-
-22.01.2024 21:29:21
-
-
-![Bagge With Star](https://img.shields.io/badge/stars-1-brightgreen?style=for-the-badge&logo=Trustpilot&logoColor=white&label=Stars&labelColor=%20%09limegreen&color=forestgreen)
-
-
-<iframe class="idea-vote" src="https://docs.google.com/forms/d/e/1FAIpQLSfUuSpwuuyu-4GIGhtTIz3A0y70HtNt4KYTLi9HXPEw-qRO0w/viewform?embedded=true&entry.3245599=0" width="640" height="372" frameborder="0" marginheight="0" marginwidth="0">Загрузка…</iframe>
-
-
-
-
-
-
-
-
-
-<h2 id="idea6">№ 6. Project X-Files Number 201</h2>
-
-The truth is out there
-
-Ut accumsan pharetra nisl, non vestibulum ante placerat at. Morbi malesuada lorem odio, id auctor diam venenatis vitae. Integer commodo, justo eget fermentum posuere, arcu urna semper velit, ut consequat nisi justo ac elit.
-
-https://en.m.wikipedia.org/wiki/The_X-Files
-
-25.01.2024 0:52:10
-
-
-![Bagge With Star](https://img.shields.io/badge/stars-1-brightgreen?style=for-the-badge&logo=Trustpilot&logoColor=white&label=Stars&labelColor=%20%09limegreen&color=forestgreen)
-
-
-<iframe class="idea-vote" src="https://docs.google.com/forms/d/e/1FAIpQLSfUuSpwuuyu-4GIGhtTIz3A0y70HtNt4KYTLi9HXPEw-qRO0w/viewform?embedded=true&entry.3245599=6" width="640" height="372" frameborder="0" marginheight="0" marginwidth="0">Загрузка…</iframe>
 
 
 
@@ -198,6 +86,118 @@ https://en.m.wikipedia.org/wiki/The_X-Files
 
 
 
+<h2 id="idea2">№ 2. test2-T</h2>
+
+test2-D
+
+test2-C
+
+23.01.2024 2:45:54
+
+
+![Bagge With Star](https://img.shields.io/badge/stars-0-brightgreen?style=for-the-badge&logo=Trustpilot&logoColor=white&label=Stars&labelColor=%20%09limegreen&color=forestgreen)
+
+
+<iframe class="idea-vote" src="https://docs.google.com/forms/d/e/1FAIpQLSfUuSpwuuyu-4GIGhtTIz3A0y70HtNt4KYTLi9HXPEw-qRO0w/viewform?embedded=true&entry.3245599=2" width="640" height="372" frameborder="0" marginheight="0" marginwidth="0">Загрузка…</iframe>
+
+
+
+
+
+
+
+
+
+<h2 id="idea0">№ 0. test-Бронсбойт</h2>
+
+test-Сделать систему уведомлений широку большую
+
+test-Ссылка t.me Автор идеи такой-то
+
+22.01.2024 21:29:21
+
+
+![Bagge With Star](https://img.shields.io/badge/stars-0-brightgreen?style=for-the-badge&logo=Trustpilot&logoColor=white&label=Stars&labelColor=%20%09limegreen&color=forestgreen)
+
+
+<iframe class="idea-vote" src="https://docs.google.com/forms/d/e/1FAIpQLSfUuSpwuuyu-4GIGhtTIz3A0y70HtNt4KYTLi9HXPEw-qRO0w/viewform?embedded=true&entry.3245599=0" width="640" height="372" frameborder="0" marginheight="0" marginwidth="0">Загрузка…</iframe>
+
+
+
+
+
+
+
+
+
+<h2 id="idea1">№ 1. test-1 T</h2>
+
+test-1D
+
+test-1 C
+
+22.01.2024 22:20:54
+
+
+![Bagge With Star](https://img.shields.io/badge/stars-0-brightgreen?style=for-the-badge&logo=Trustpilot&logoColor=white&label=Stars&labelColor=%20%09limegreen&color=forestgreen)
+
+
+<iframe class="idea-vote" src="https://docs.google.com/forms/d/e/1FAIpQLSfUuSpwuuyu-4GIGhtTIz3A0y70HtNt4KYTLi9HXPEw-qRO0w/viewform?embedded=true&entry.3245599=1" width="640" height="372" frameborder="0" marginheight="0" marginwidth="0">Загрузка…</iframe>
+
+
+
+
+
+
+
+
+
+<h2 id="idea7">№ 7. Project X-Files Number 666</h2>
+
+Duis in augue aliquet, ultrices lectus vel, dictum dolor. Phasellus ac ex molestie, sagittis ante ut, efficitur ipsum. Nulla vitae dui rutrum, tempus nibh et, eleifend diam. Nam eleifend, lectus bibendum dignissim mollis, lectus lorem cursus dolor, a varius mi ligula vel mi. Fusce dictum convallis odio ut rhoncus. Integer gravida rhoncus eleifend. Cras vel velit tincidunt magna venenatis posuere.
+
+В тг dev @derevovole
+
+25.01.2024 0:53:08
+
+
+![Bagge With Star](https://img.shields.io/badge/stars-0-brightgreen?style=for-the-badge&logo=Trustpilot&logoColor=white&label=Stars&labelColor=%20%09limegreen&color=forestgreen)
+
+
+<iframe class="idea-vote" src="https://docs.google.com/forms/d/e/1FAIpQLSfUuSpwuuyu-4GIGhtTIz3A0y70HtNt4KYTLi9HXPEw-qRO0w/viewform?embedded=true&entry.3245599=7" width="640" height="372" frameborder="0" marginheight="0" marginwidth="0">Загрузка…</iframe>
+
+
+
+
+
+
+
+
+
+<h2 id="idea6">№ 6. Project X-Files Number 201</h2>
+
+The truth is out there
+
+Ut accumsan pharetra nisl, non vestibulum ante placerat at. Morbi malesuada lorem odio, id auctor diam venenatis vitae. Integer commodo, justo eget fermentum posuere, arcu urna semper velit, ut consequat nisi justo ac elit.
+
+https://en.m.wikipedia.org/wiki/The_X-Files
+
+25.01.2024 0:52:10
+
+
+![Bagge With Star](https://img.shields.io/badge/stars-0-brightgreen?style=for-the-badge&logo=Trustpilot&logoColor=white&label=Stars&labelColor=%20%09limegreen&color=forestgreen)
+
+
+<iframe class="idea-vote" src="https://docs.google.com/forms/d/e/1FAIpQLSfUuSpwuuyu-4GIGhtTIz3A0y70HtNt4KYTLi9HXPEw-qRO0w/viewform?embedded=true&entry.3245599=6" width="640" height="372" frameborder="0" marginheight="0" marginwidth="0">Загрузка…</iframe>
+
+
+
+
+
+
+
+
+
 
 
 
@@ -219,10 +219,10 @@ https://en.m.wikipedia.org/wiki/The_X-Files
 
 Ideas URL:
 
-[https://docs.google.com/spreadsheet/ccc?key=1Jd64aeV5uyW4C1EFTqc4womkSwG-3nyzujXPdms-drs&output=csv](https://docs.google.com/spreadsheet/ccc?key=1Jd64aeV5uyW4C1EFTqc4womkSwG-3nyzujXPdms-drs&output=csv)
+[https://docs.google.com/spreadsheet/ccc?key=16H5Wtpu3-r9oHKHh8qTbaMemLOviVh1bz_CQ-2VMWwI&output=csv](https://docs.google.com/spreadsheet/ccc?key=16H5Wtpu3-r9oHKHh8qTbaMemLOviVh1bz_CQ-2VMWwI&output=csv)
 
 Votes URL:
 
-[https://docs.google.com/spreadsheet/ccc?key=1Y2gY4kBg2oYufDYuMXkGGpWDF1_hQhTVtX9Dj8oA55I&output=csv](https://docs.google.com/spreadsheet/ccc?key=1Y2gY4kBg2oYufDYuMXkGGpWDF1_hQhTVtX9Dj8oA55I&output=csv)
+[https://docs.google.com/spreadsheet/ccc?key=1s4sFWqQIDfl8kRPQaxcpQpDfByomRwlYDUwVwAhNYRE&output=csv](https://docs.google.com/spreadsheet/ccc?key=1s4sFWqQIDfl8kRPQaxcpQpDfByomRwlYDUwVwAhNYRE&output=csv)
 
 
