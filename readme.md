@@ -215,6 +215,17 @@ https://en.m.wikipedia.org/wiki/The_X-Files
 
 - Поддерджка свзяь
 
+#### Sources:
+
+ideas URL
+
+https://docs.google.com/spreadsheet/ccc?key=1Jd64aeV5uyW4C1EFTqc4womkSwG-3nyzujXPdms-drs&output=csv
+
+votes URL 
+
+https://docs.google.com/spreadsheet/ccc?key=1Y2gY4kBg2oYufDYuMXkGGpWDF1_hQhTVtX9Dj8oA55I&output=csv
+
+
 # Dev
 
 [https://t.me/upvote_derevovoli_bot?upvote=101](https://t.me/upvote_derevovoli_bot?upvote=101)
