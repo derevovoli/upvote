@@ -20,6 +20,28 @@
 
 # 📚 Коллекция потенциальных проектов
 
+<h2 id="idea1">№ 1. Venona project</h2>
+
+Counterintelligence program initiated during World War II by the United States Army's Signal Intelligence Service and later absorbed by the, that ran from February 1, 1943, until October 1, 1980.[1] It was intended to decrypt messages transmitted by the intelligence agencies of the Soviet Union ().[2] Initiated when the Soviet Union was an ally of the, the program continued during the Cold War, when the Soviet Union was considered an enemy.
+
+https://en.wikipedia.org/wiki/Venona_project
+
+25.01.2024 22:13:57
+
+
+![Bagge With Star](https://img.shields.io/badge/stars-1-brightgreen?style=for-the-badge&logo=Trustpilot&logoColor=white&label=Stars&labelColor=%20%09limegreen&color=forestgreen)
+
+
+<iframe class="idea-vote" src="https://docs.google.com/forms/d/e/1FAIpQLScEIwlGeWVBKYTB5a6-B_ADrvvaQ1XixNS3O4TkJ3TCQBeV1Q/viewform?embedded=true&entry.1181038296=1" width="640" height="372" frameborder="0" marginheight="0" marginwidth="0">Загрузка…</iframe>
+
+
+
+
+
+
+
+
+
 <h2 id="idea4">№ 4. Ultra cryptography</h2>
 
 Ultra was the designation adopted by British intelligence in June 1941 for wartime signals intelligence obtained by breaking high-level encrypted enemy radio and teleprinter communications at the Government Code and Cypher School (GC&CS) at Bletchley Park.[1] Ultra eventually became the standard designation among the western Allies for all such intelligence. The name arose because the intelligence obtained was considered more important than that designated by the highest British security classification then used (Most Secret) and so was regarded as being Ultra Secret.[2] Several other cryptonyms had been used for such intelligence.
@@ -108,28 +130,6 @@ https://en.wikipedia.org/wiki/Fairview_(surveillance_program)
 
 
 
-<h2 id="idea1">№ 1. Venona project</h2>
-
-Counterintelligence program initiated during World War II by the United States Army's Signal Intelligence Service and later absorbed by the, that ran from February 1, 1943, until October 1, 1980.[1] It was intended to decrypt messages transmitted by the intelligence agencies of the Soviet Union ().[2] Initiated when the Soviet Union was an ally of the, the program continued during the Cold War, when the Soviet Union was considered an enemy.
-
-https://en.wikipedia.org/wiki/Venona_project
-
-25.01.2024 22:13:57
-
-
-![Bagge With Star](https://img.shields.io/badge/stars-0-brightgreen?style=for-the-badge&logo=Trustpilot&logoColor=white&label=Stars&labelColor=%20%09limegreen&color=forestgreen)
-
-
-<iframe class="idea-vote" src="https://docs.google.com/forms/d/e/1FAIpQLScEIwlGeWVBKYTB5a6-B_ADrvvaQ1XixNS3O4TkJ3TCQBeV1Q/viewform?embedded=true&entry.1181038296=1" width="640" height="372" frameborder="0" marginheight="0" marginwidth="0">Загрузка…</iframe>
-
-
-
-
-
-
-
-
-
 
 
 
@@ -146,6 +146,14 @@ https://en.wikipedia.org/wiki/Venona_project
 - Обновление
 
 - Поддерджка свзяь
+
+### 🛡 Privacy
+
+Не собираются никакие данные.
+
+Google Forms не сохраняет адресов почт.
+
+Проверить исходные полученные данные можно в таблицах ответов ниже.
 
 ## 💾 Sources
 
