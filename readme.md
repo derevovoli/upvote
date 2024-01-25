@@ -20,13 +20,13 @@
 
 # 📚 Коллекция потенциальных проектов
 
-<h2 id="idea4">№ 4. test-5 Робинсон</h2>
+<h2 id="idea4">№ 4. Ultra cryptography</h2>
 
-test-5 Как сдеаооллук укралук?
+Ultra was the designation adopted by British intelligence in June 1941 for wartime signals intelligence obtained by breaking high-level encrypted enemy radio and teleprinter communications at the Government Code and Cypher School (GC&CS) at Bletchley Park.[1] Ultra eventually became the standard designation among the western Allies for all such intelligence. The name arose because the intelligence obtained was considered more important than that designated by the highest British security classification then used (Most Secret) and so was regarded as being Ultra Secret.[2] Several other cryptonyms had been used for such intelligence.
 
-t.mer
+https://en.wikipedia.org/wiki/Ultra_(cryptography)
 
-24.01.2024 7:00:55
+25.01.2024 22:14:51
 
 
 ![Bagge With Star](https://img.shields.io/badge/stars-0-brightgreen?style=for-the-badge&logo=Trustpilot&logoColor=white&label=Stars&labelColor=%20%09limegreen&color=forestgreen)
@@ -42,13 +42,13 @@ t.mer
 
 
 
-<h2 id="idea3">№ 3. test-5 Робинсон</h2>
+<h2 id="idea3">№ 3. PRISM</h2>
 
-test-5 Как сдеаооллук укралук?
+PRISM is a code name for a program under which the  collects internet communications from various U.S. internet companies.[1][2][3] The program is also known by the SIGAD US-984XN.[4][5] PRISM collects stored internet communications based on demands made to internet companies such as Google LLC and Apple under Section 702 of the FISA Amendments Act of 2008 to turn over any data that match court-approved search terms.[6] Among other things, the can use these PRISM requests to target communications that were encrypted when they traveled across the internet backbone, to focus on stored data that telecommunication filtering systems discarded earlier,[7][8] and to get data that is easier to handle.[9]
 
-t.mer
+https://en.wikipedia.org/wiki/PRISM
 
-24.01.2024 7:00:55
+25.01.2024 22:14:28
 
 
 ![Bagge With Star](https://img.shields.io/badge/stars-0-brightgreen?style=for-the-badge&logo=Trustpilot&logoColor=white&label=Stars&labelColor=%20%09limegreen&color=forestgreen)
@@ -64,13 +64,13 @@ t.mer
 
 
 
-<h2 id="idea5">№ 5. Project X-Files Number 101</h2>
+<h2 id="idea5">№ 5. Star Wars program</h2>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus consequat faucibus euismod. Ut vel mauris elementum, viverra mi sed, iaculis tellus. Ut nec rhoncus libero. Suspendisse hendrerit scelerisque eleifend. Suspendisse at tortor egestas, fringilla erat nec, iaculis lorem. Aenean hendrerit urna nec lectus efficitur, at aliquam metus viverra. Donec imperdiet vel nunc eu convallis. Mauris semper venenatis tellus, sed pellentesque nunc congue finibus. In rhoncus nunc diam, quis consectetur est suscipit nec.
+The concept was announced on March 23, 1983, by President Ronald Reagan,[1] a vocal critic of the doctrine of mutually assured destruction (MAD), which he described as a "suicide pact". Reagan called upon American scientists and engineers to develop a system that would render nuclear weapons obsolete.[2] Elements of the program reemerged in 2019 with the Space Development Agency (SDA).[3]
 
-https://en.m.wikipedia.org/wiki/The_X-Files
+https://en.wikipedia.org/wiki/Strategic_Defense_Initiative
 
-25.01.2024 0:50:59
+25.01.2024 22:15:04
 
 
 ![Bagge With Star](https://img.shields.io/badge/stars-0-brightgreen?style=for-the-badge&logo=Trustpilot&logoColor=white&label=Stars&labelColor=%20%09limegreen&color=forestgreen)
@@ -86,13 +86,13 @@ https://en.m.wikipedia.org/wiki/The_X-Files
 
 
 
-<h2 id="idea2">№ 2. test2-T</h2>
+<h2 id="idea2">№ 2. Fairview project</h2>
 
-test2-D
+Fairview is a secret program under which the  cooperates with the American telecommunications company AT&T in order to collect phone, internet and e-mail data mainly of foreign countries' citizens at major cable landing stations and switching stations inside the . The FAIRVIEW program started in 1985, one year after the Bell breakup.[1]
 
-test2-C
+https://en.wikipedia.org/wiki/Fairview_(surveillance_program)
 
-23.01.2024 2:45:54
+25.01.2024 22:14:12
 
 
 ![Bagge With Star](https://img.shields.io/badge/stars-0-brightgreen?style=for-the-badge&logo=Trustpilot&logoColor=white&label=Stars&labelColor=%20%09limegreen&color=forestgreen)
@@ -108,87 +108,19 @@ test2-C
 
 
 
-<h2 id="idea0">№ 0. test-Бронсбойт</h2>
+<h2 id="idea1">№ 1. Venona project</h2>
 
-test-Сделать систему уведомлений широку большую
+Counterintelligence program initiated during World War II by the United States Army's Signal Intelligence Service and later absorbed by the, that ran from February 1, 1943, until October 1, 1980.[1] It was intended to decrypt messages transmitted by the intelligence agencies of the Soviet Union ().[2] Initiated when the Soviet Union was an ally of the, the program continued during the Cold War, when the Soviet Union was considered an enemy.
 
-test-Ссылка t.me Автор идеи такой-то
+https://en.wikipedia.org/wiki/Venona_project
 
-22.01.2024 21:29:21
-
-
-![Bagge With Star](https://img.shields.io/badge/stars-0-brightgreen?style=for-the-badge&logo=Trustpilot&logoColor=white&label=Stars&labelColor=%20%09limegreen&color=forestgreen)
-
-
-<iframe class="idea-vote" src="https://docs.google.com/forms/d/e/1FAIpQLSfUuSpwuuyu-4GIGhtTIz3A0y70HtNt4KYTLi9HXPEw-qRO0w/viewform?embedded=true&entry.3245599=0" width="640" height="372" frameborder="0" marginheight="0" marginwidth="0">Загрузка…</iframe>
-
-
-
-
-
-
-
-
-
-<h2 id="idea1">№ 1. test-1 T</h2>
-
-test-1D
-
-test-1 C
-
-22.01.2024 22:20:54
+25.01.2024 22:13:57
 
 
 ![Bagge With Star](https://img.shields.io/badge/stars-0-brightgreen?style=for-the-badge&logo=Trustpilot&logoColor=white&label=Stars&labelColor=%20%09limegreen&color=forestgreen)
 
 
 <iframe class="idea-vote" src="https://docs.google.com/forms/d/e/1FAIpQLSfUuSpwuuyu-4GIGhtTIz3A0y70HtNt4KYTLi9HXPEw-qRO0w/viewform?embedded=true&entry.3245599=1" width="640" height="372" frameborder="0" marginheight="0" marginwidth="0">Загрузка…</iframe>
-
-
-
-
-
-
-
-
-
-<h2 id="idea7">№ 7. Project X-Files Number 666</h2>
-
-Duis in augue aliquet, ultrices lectus vel, dictum dolor. Phasellus ac ex molestie, sagittis ante ut, efficitur ipsum. Nulla vitae dui rutrum, tempus nibh et, eleifend diam. Nam eleifend, lectus bibendum dignissim mollis, lectus lorem cursus dolor, a varius mi ligula vel mi. Fusce dictum convallis odio ut rhoncus. Integer gravida rhoncus eleifend. Cras vel velit tincidunt magna venenatis posuere.
-
-В тг dev @derevovole
-
-25.01.2024 0:53:08
-
-
-![Bagge With Star](https://img.shields.io/badge/stars-0-brightgreen?style=for-the-badge&logo=Trustpilot&logoColor=white&label=Stars&labelColor=%20%09limegreen&color=forestgreen)
-
-
-<iframe class="idea-vote" src="https://docs.google.com/forms/d/e/1FAIpQLSfUuSpwuuyu-4GIGhtTIz3A0y70HtNt4KYTLi9HXPEw-qRO0w/viewform?embedded=true&entry.3245599=7" width="640" height="372" frameborder="0" marginheight="0" marginwidth="0">Загрузка…</iframe>
-
-
-
-
-
-
-
-
-
-<h2 id="idea6">№ 6. Project X-Files Number 201</h2>
-
-The truth is out there
-
-Ut accumsan pharetra nisl, non vestibulum ante placerat at. Morbi malesuada lorem odio, id auctor diam venenatis vitae. Integer commodo, justo eget fermentum posuere, arcu urna semper velit, ut consequat nisi justo ac elit.
-
-https://en.m.wikipedia.org/wiki/The_X-Files
-
-25.01.2024 0:52:10
-
-
-![Bagge With Star](https://img.shields.io/badge/stars-0-brightgreen?style=for-the-badge&logo=Trustpilot&logoColor=white&label=Stars&labelColor=%20%09limegreen&color=forestgreen)
-
-
-<iframe class="idea-vote" src="https://docs.google.com/forms/d/e/1FAIpQLSfUuSpwuuyu-4GIGhtTIz3A0y70HtNt4KYTLi9HXPEw-qRO0w/viewform?embedded=true&entry.3245599=6" width="640" height="372" frameborder="0" marginheight="0" marginwidth="0">Загрузка…</iframe>
 
 
 
