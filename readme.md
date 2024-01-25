@@ -204,7 +204,7 @@ https://en.m.wikipedia.org/wiki/The_X-Files
                            
 <h2 id="contribute-idea">Предложить свою идею</h2>
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSemaIVdFMMuzsOjleLCd2dQ9WaNgQCwLs9EuOc4cGViGZn5ew/viewform?embedded=true" width="640" height="744" frameborder="0" marginheight="0" marginwidth="0" style="width: revert-layer;height: revert-layer;">Загрузка…</iframe>
+<iframe class="idea-contrib" src="https://docs.google.com/forms/d/e/1FAIpQLSemaIVdFMMuzsOjleLCd2dQ9WaNgQCwLs9EuOc4cGViGZn5ew/viewform?embedded=true" width="640" height="744" frameborder="0" marginheight="0" marginwidth="0" style="width: revert-layer;height: revert-layer;">Загрузка…</iframe>
 
 
 ## 📌 Техническая информация
