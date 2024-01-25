@@ -5,11 +5,11 @@
 
 <link rel="shortcut icon" type="image/png" href="favicon.png">
 
-### URL этой страницы
+
+#### URL этой страницы
 
 [https://derevovoli.github.io/upvote/demo](https://derevovoli.github.io/upvote/demo)
 
-### Links
 
 [![][ilogo1020302]][ilink1020302]
 
@@ -18,7 +18,7 @@
 
 
 
-# Коллекция потенциальных проектов
+# 📚 Коллекция потенциальных проектов
 
 <h2 id="idea4">№ 4. test-5 Робинсон</h2>
 
@@ -215,7 +215,7 @@ https://en.m.wikipedia.org/wiki/The_X-Files
 
 - Поддерджка свзяь
 
-#### Sources:
+## 💾 Sources
 
 Ideas URL:
 
@@ -226,22 +226,3 @@ Votes URL:
 [https://docs.google.com/spreadsheet/ccc?key=1Y2gY4kBg2oYufDYuMXkGGpWDF1_hQhTVtX9Dj8oA55I&output=csv](https://docs.google.com/spreadsheet/ccc?key=1Y2gY4kBg2oYufDYuMXkGGpWDF1_hQhTVtX9Dj8oA55I&output=csv)
 
 
-# Dev
-
-[https://t.me/upvote_derevovoli_bot?upvote=101](https://t.me/upvote_derevovoli_bot?upvote=101)
-
-[https://t.me/upvote_derevovoli_bot?upvote=102](https://t.me/upvote_derevovoli_bot?upvote=102)
-
-[https://t.me/upvote_derevovoli_bot?upvote103](https://t.me/upvote_derevovoli_bot?upvote103)
-
-[https://t.me/upvote_derevovoli_bot/?start=upvote104](https://t.me/upvote_derevovoli_bot/?start=upvote103)
-
-
-[https://t.me/upvote_derevovoli_bot?start=upvote105](https://t.me/upvote_derevovoli_bot?start=upvote105)
-
-
-
-[https://t.me/upvote_derevovoli_bot?upvote=upvote106](https://t.me/upvote_derevovoli_bot?upvote=upvote106)
-
-
-'''
