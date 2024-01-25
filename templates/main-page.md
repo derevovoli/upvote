@@ -37,6 +37,18 @@ $idea_blocks
 
 - Поддерджка свзяь
 
+#### Sources:
+
+ideas URL
+
+$ideas_url
+
+votes URL 
+
+$votes_url
+
+- 
+
 # Dev
 
 [https://t.me/upvote_derevovoli_bot?upvote=101](https://t.me/upvote_derevovoli_bot?upvote=101)
