@@ -47,7 +47,6 @@ votes URL
 
 $votes_url
 
-- 
 
 # Dev
 
