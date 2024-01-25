@@ -1,4 +1,8 @@
 
+<style>
+	@import url("style.css");
+</style>
+
 <link rel="shortcut icon" type="image/png" href="favicon.png">
 
 ### URL этой страницы
