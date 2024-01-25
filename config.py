@@ -4,10 +4,10 @@ from string import Template
 
 # Config
 
-ideas_url = 'https://docs.google.com/spreadsheet/ccc?key=1Jd64aeV5uyW4C1EFTqc4womkSwG-3nyzujXPdms-drs&output=csv'
+ideas_url = 'https://docs.google.com/spreadsheet/ccc?key=16H5Wtpu3-r9oHKHh8qTbaMemLOviVh1bz_CQ-2VMWwI&output=csv'
 
 
-upvotes_url = 'https://docs.google.com/spreadsheet/ccc?key=1Y2gY4kBg2oYufDYuMXkGGpWDF1_hQhTVtX9Dj8oA55I&output=csv'
+upvotes_url = 'https://docs.google.com/spreadsheet/ccc?key=1s4sFWqQIDfl8kRPQaxcpQpDfByomRwlYDUwVwAhNYRE&output=csv'
 
 
 ideas_dir = pathlib.Path('ideas')
