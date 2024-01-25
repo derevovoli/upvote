@@ -17,12 +17,18 @@ iframe.idea-contrib{
 @media (max-width: 575.98px){
   
 iframe.idea-vote{
+  width: 100%;
+  width: -moz-available;
   width: -webkit-fill-available;
+  width: fill-available;
   min-height: 520px;
 }
 
 iframe.idea-contrib{
+  width: 100%;
+  width: -moz-available;
   width: -webkit-fill-available;
+  width: fill-available;
   min-height: 890px;
 }
   
