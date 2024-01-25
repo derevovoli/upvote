@@ -8,7 +8,7 @@
 
 #### URL этой страницы
 
-[https://derevovoli.github.io/upvote/demo](https://derevovoli.github.io/upvote/demo)
+[https://derevovoli.github.io/upvote/](https://derevovoli.github.io/upvote/)
 
 
 [![][ilogo1020302]][ilink1020302]
