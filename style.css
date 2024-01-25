@@ -1,22 +1,31 @@
 
 
 iframe.idea-vote{
-  
+  width: revert-layer;
+  height: revert-layer;
+  min-height: 450px;
 }
 
 
 iframe.idea-contrib{
-  
+  width: revert-layer;
+  height: revert-layer;
+  min-height: 835px;
 }
 
 
 @media (max-width: 575.98px){
-iframe.idea-vote{
   
+iframe.idea-vote{
+  width: -webkit-fill-available;
+  min-height: 520px;
 }
 
 iframe.idea-contrib{
-  
+  width: -webkit-fill-available;
+  min-height: 835px;
 }
   
 }
+
+
