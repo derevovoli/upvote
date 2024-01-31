@@ -35,7 +35,6 @@ $idea_blocks
 
 - Обновление
 
-- Поддерджка свзяь
 
 ### 🛡 Privacy
 
@@ -49,10 +48,13 @@ $idea_blocks
 
 Ideas URL:
 
-[$ideas_url]($ideas_url)
+- [$ideas_url]($ideas_url)
 
 Votes URL:
 
-[$votes_url]($votes_url)
+- [$votes_url]($votes_url)
 
+## 📬 Contacts
+
+- andrewlevin-dv at hotmail.com
 
