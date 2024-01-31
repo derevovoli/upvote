@@ -145,7 +145,6 @@ https://en.wikipedia.org/wiki/PRISM
 
 - Обновление
 
-- Поддерджка свзяь
 
 ### 🛡 Privacy
 
@@ -159,10 +158,13 @@ https://en.wikipedia.org/wiki/PRISM
 
 Ideas URL:
 
-[https://docs.google.com/spreadsheet/ccc?key=16H5Wtpu3-r9oHKHh8qTbaMemLOviVh1bz_CQ-2VMWwI&output=csv](https://docs.google.com/spreadsheet/ccc?key=16H5Wtpu3-r9oHKHh8qTbaMemLOviVh1bz_CQ-2VMWwI&output=csv)
+- [https://docs.google.com/spreadsheet/ccc?key=16H5Wtpu3-r9oHKHh8qTbaMemLOviVh1bz_CQ-2VMWwI&output=csv](https://docs.google.com/spreadsheet/ccc?key=16H5Wtpu3-r9oHKHh8qTbaMemLOviVh1bz_CQ-2VMWwI&output=csv)
 
 Votes URL:
 
-[https://docs.google.com/spreadsheet/ccc?key=1s4sFWqQIDfl8kRPQaxcpQpDfByomRwlYDUwVwAhNYRE&output=csv](https://docs.google.com/spreadsheet/ccc?key=1s4sFWqQIDfl8kRPQaxcpQpDfByomRwlYDUwVwAhNYRE&output=csv)
+- [https://docs.google.com/spreadsheet/ccc?key=1s4sFWqQIDfl8kRPQaxcpQpDfByomRwlYDUwVwAhNYRE&output=csv](https://docs.google.com/spreadsheet/ccc?key=1s4sFWqQIDfl8kRPQaxcpQpDfByomRwlYDUwVwAhNYRE&output=csv)
 
+## 📬 Contacts
+
+- andrewlevin-dv at hotmail.com
 
