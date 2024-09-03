@@ -86,28 +86,6 @@ https://en.wikipedia.org/wiki/Fairview_(surveillance_program)
 
 
 
-<h2 id="idea4">№ 4. Ultra cryptography</h2>
-
-Ultra was the designation adopted by British intelligence in June 1941 for wartime signals intelligence obtained by breaking high-level encrypted enemy radio and teleprinter communications at the Government Code and Cypher School (GC&CS) at Bletchley Park.[1] Ultra eventually became the standard designation among the western Allies for all such intelligence. The name arose because the intelligence obtained was considered more important than that designated by the highest British security classification then used (Most Secret) and so was regarded as being Ultra Secret.[2] Several other cryptonyms had been used for such intelligence.
-
-https://en.wikipedia.org/wiki/Ultra_(cryptography)
-
-25.01.2024 22:14:51
-
-
-![Bagge With Star](https://img.shields.io/badge/stars-0-brightgreen?style=for-the-badge&logo=Trustpilot&logoColor=white&label=Stars&labelColor=%20%09limegreen&color=forestgreen)
-
-
-<iframe class="idea-vote" src="https://docs.google.com/forms/d/e/1FAIpQLScEIwlGeWVBKYTB5a6-B_ADrvvaQ1XixNS3O4TkJ3TCQBeV1Q/viewform?embedded=true&entry.1181038296=4" width="640" height="372" frameborder="0" marginheight="0" marginwidth="0">Загрузка…</iframe>
-
-
-
-
-
-
-
-
-
 <h2 id="idea3">№ 3. PRISM</h2>
 
 PRISM is a code name for a program under which the  collects internet communications from various U.S. internet companies.[1][2][3] The program is also known by the SIGAD US-984XN.[4][5] PRISM collects stored internet communications based on demands made to internet companies such as Google LLC and Apple under Section 702 of the FISA Amendments Act of 2008 to turn over any data that match court-approved search terms.[6] Among other things, the can use these PRISM requests to target communications that were encrypted when they traveled across the internet backbone, to focus on stored data that telecommunication filtering systems discarded earlier,[7][8] and to get data that is easier to handle.[9]
@@ -121,6 +99,28 @@ https://en.wikipedia.org/wiki/PRISM
 
 
 <iframe class="idea-vote" src="https://docs.google.com/forms/d/e/1FAIpQLScEIwlGeWVBKYTB5a6-B_ADrvvaQ1XixNS3O4TkJ3TCQBeV1Q/viewform?embedded=true&entry.1181038296=3" width="640" height="372" frameborder="0" marginheight="0" marginwidth="0">Загрузка…</iframe>
+
+
+
+
+
+
+
+
+
+<h2 id="idea4">№ 4. Ultra cryptography</h2>
+
+Ultra was the designation adopted by British intelligence in June 1941 for wartime signals intelligence obtained by breaking high-level encrypted enemy radio and teleprinter communications at the Government Code and Cypher School (GC&CS) at Bletchley Park.[1] Ultra eventually became the standard designation among the western Allies for all such intelligence. The name arose because the intelligence obtained was considered more important than that designated by the highest British security classification then used (Most Secret) and so was regarded as being Ultra Secret.[2] Several other cryptonyms had been used for such intelligence.
+
+https://en.wikipedia.org/wiki/Ultra_(cryptography)
+
+25.01.2024 22:14:51
+
+
+![Bagge With Star](https://img.shields.io/badge/stars-0-brightgreen?style=for-the-badge&logo=Trustpilot&logoColor=white&label=Stars&labelColor=%20%09limegreen&color=forestgreen)
+
+
+<iframe class="idea-vote" src="https://docs.google.com/forms/d/e/1FAIpQLScEIwlGeWVBKYTB5a6-B_ADrvvaQ1XixNS3O4TkJ3TCQBeV1Q/viewform?embedded=true&entry.1181038296=4" width="640" height="372" frameborder="0" marginheight="0" marginwidth="0">Загрузка…</iframe>
 
 
 
