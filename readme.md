@@ -20,19 +20,19 @@
 
 # 📚 Коллекция потенциальных проектов
 
-<h2 id="idea1">№ 1. Venona project</h2>
+<h2 id="idea2">№ 2. Fairview project</h2>
 
-Counterintelligence program initiated during World War II by the United States Army's Signal Intelligence Service and later absorbed by the, that ran from February 1, 1943, until October 1, 1980.[1] It was intended to decrypt messages transmitted by the intelligence agencies of the Soviet Union ().[2] Initiated when the Soviet Union was an ally of the, the program continued during the Cold War, when the Soviet Union was considered an enemy.
+Fairview is a secret program under which the  cooperates with the American telecommunications company AT&T in order to collect phone, internet and e-mail data mainly of foreign countries' citizens at major cable landing stations and switching stations inside the . The FAIRVIEW program started in 1985, one year after the Bell breakup.[1]
 
-https://en.wikipedia.org/wiki/Venona_project
+https://en.wikipedia.org/wiki/Fairview_(surveillance_program)
 
-25.01.2024 22:13:57
-
-
-![Bagge With Star](https://img.shields.io/badge/stars-6-brightgreen?style=for-the-badge&logo=Trustpilot&logoColor=white&label=Stars&labelColor=%20%09limegreen&color=forestgreen)
+25.01.2024 22:14:12
 
 
-<iframe class="idea-vote" src="https://docs.google.com/forms/d/e/1FAIpQLScEIwlGeWVBKYTB5a6-B_ADrvvaQ1XixNS3O4TkJ3TCQBeV1Q/viewform?embedded=true&entry.1181038296=1" width="640" height="372" frameborder="0" marginheight="0" marginwidth="0">Загрузка…</iframe>
+![Bagge With Star](https://img.shields.io/badge/stars-0-brightgreen?style=for-the-badge&logo=Trustpilot&logoColor=white&label=Stars&labelColor=%20%09limegreen&color=forestgreen)
+
+
+<iframe class="idea-vote" src="https://docs.google.com/forms/d/e/1FAIpQLScEIwlGeWVBKYTB5a6-B_ADrvvaQ1XixNS3O4TkJ3TCQBeV1Q/viewform?embedded=true&entry.1181038296=2" width="640" height="372" frameborder="0" marginheight="0" marginwidth="0">Загрузка…</iframe>
 
 
 
@@ -51,7 +51,7 @@ https://en.wikipedia.org/wiki/Strategic_Defense_Initiative
 25.01.2024 22:15:04
 
 
-![Bagge With Star](https://img.shields.io/badge/stars-3-brightgreen?style=for-the-badge&logo=Trustpilot&logoColor=white&label=Stars&labelColor=%20%09limegreen&color=forestgreen)
+![Bagge With Star](https://img.shields.io/badge/stars-0-brightgreen?style=for-the-badge&logo=Trustpilot&logoColor=white&label=Stars&labelColor=%20%09limegreen&color=forestgreen)
 
 
 <iframe class="idea-vote" src="https://docs.google.com/forms/d/e/1FAIpQLScEIwlGeWVBKYTB5a6-B_ADrvvaQ1XixNS3O4TkJ3TCQBeV1Q/viewform?embedded=true&entry.1181038296=5" width="640" height="372" frameborder="0" marginheight="0" marginwidth="0">Загрузка…</iframe>
@@ -64,19 +64,19 @@ https://en.wikipedia.org/wiki/Strategic_Defense_Initiative
 
 
 
-<h2 id="idea2">№ 2. Fairview project</h2>
+<h2 id="idea1">№ 1. Venona project</h2>
 
-Fairview is a secret program under which the  cooperates with the American telecommunications company AT&T in order to collect phone, internet and e-mail data mainly of foreign countries' citizens at major cable landing stations and switching stations inside the . The FAIRVIEW program started in 1985, one year after the Bell breakup.[1]
+Counterintelligence program initiated during World War II by the United States Army's Signal Intelligence Service and later absorbed by the, that ran from February 1, 1943, until October 1, 1980.[1] It was intended to decrypt messages transmitted by the intelligence agencies of the Soviet Union ().[2] Initiated when the Soviet Union was an ally of the, the program continued during the Cold War, when the Soviet Union was considered an enemy.
 
-https://en.wikipedia.org/wiki/Fairview_(surveillance_program)
+https://en.wikipedia.org/wiki/Venona_project
 
-25.01.2024 22:14:12
-
-
-![Bagge With Star](https://img.shields.io/badge/stars-1-brightgreen?style=for-the-badge&logo=Trustpilot&logoColor=white&label=Stars&labelColor=%20%09limegreen&color=forestgreen)
+25.01.2024 22:13:57
 
 
-<iframe class="idea-vote" src="https://docs.google.com/forms/d/e/1FAIpQLScEIwlGeWVBKYTB5a6-B_ADrvvaQ1XixNS3O4TkJ3TCQBeV1Q/viewform?embedded=true&entry.1181038296=2" width="640" height="372" frameborder="0" marginheight="0" marginwidth="0">Загрузка…</iframe>
+![Bagge With Star](https://img.shields.io/badge/stars-0-brightgreen?style=for-the-badge&logo=Trustpilot&logoColor=white&label=Stars&labelColor=%20%09limegreen&color=forestgreen)
+
+
+<iframe class="idea-vote" src="https://docs.google.com/forms/d/e/1FAIpQLScEIwlGeWVBKYTB5a6-B_ADrvvaQ1XixNS3O4TkJ3TCQBeV1Q/viewform?embedded=true&entry.1181038296=1" width="640" height="372" frameborder="0" marginheight="0" marginwidth="0">Загрузка…</iframe>
 
 
 
